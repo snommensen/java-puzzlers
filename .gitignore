@@ -1,0 +1,38 @@
+### General
+*~
+.bak
+
+### Eclipse
+.settings
+.classpath
+.project
+
+### IntelliJ
+.idea
+classes
+*.iml
+*.ipr
+*.iws
+
+### VSCode
+.vscode
+
+### Gradle
+.gradle
+.settings
+build
+bin
+javadoc
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Package Files
+*.jar
+*.war
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Avoid out directory
+**/out/*
